@@ -1,0 +1,5 @@
+# Godot 자동 생성 파일 (GitHub에 올릴 필요 없음)
+.godot/
+*.import
+export_presets.cfg
+.DS_Store
